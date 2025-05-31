@@ -1,0 +1,121 @@
+PolicyID,Name,Age,Gender,City,PolicyType,PremiumAmount,ClaimAmount,ClaimStatus,PolicyStartDate,BranchCode
+P0001,Nicholas Davis,58,Male,New York,Auto,1375.48,1395.38,Approved,2021-09-01,IN005
+P0002,Brittany Knight,23,Female,New York,Health,649.74,2326.61,Pending,2022-05-17,IN001
+P0003,Emily Murphy,53,Male,Phoenix,Home,1258.11,5892.66,Approved,2022-12-24,IN002
+P0004,Ronald Mason,62,Female,Chicago,Auto,946.3,9572.13,Rejected,2020-11-06,IN001
+P0005,Brittney Solomon,23,Female,New York,Auto,4267.97,6037.26,Approved,2022-05-07,IN004
+P0006,Mr. Patrick Rivas,52,Male,Houston,Health,2849.8,8294.05,Pending,2023-04-01,IN003
+P0007,Joyce Mitchell,54,Male,New York,Health,3374.06,7730.68,Approved,2021-11-19,IN002
+P0008,Bonnie Khan,24,Female,Chicago,Home,3251.29,3648.32,Rejected,2021-09-29,IN003
+P0009,Alyssa Crane,31,Female,New York,Life,2763.87,2448.11,Rejected,2021-04-15,IN004
+P0010,Nancy Hobbs,35,Male,Chicago,Health,1299.43,321.0,Rejected,2022-11-07,IN004
+P0011,Martha Rodriguez,35,Male,Los Angeles,Auto,1220.61,4992.31,Pending,2023-12-17,IN004
+P0012,Alexis Thompson,27,Female,Los Angeles,Life,3775.95,5389.77,Pending,2022-10-03,IN005
+P0013,Mr. James Smith,45,Female,Chicago,Life,4987.16,1383.32,Rejected,2020-07-20,IN001
+P0014,Keith Morgan,66,Male,New York,Life,3211.74,7920.79,Rejected,2024-04-29,IN005
+P0015,Lonnie Torres,22,Female,Houston,Home,2739.75,9710.78,Approved,2023-07-16,IN001
+P0016,Kathryn Wood,61,Female,Chicago,Health,1608.8,1581.58,Approved,2023-06-12,IN003
+P0017,Tonya Collins,50,Male,Phoenix,Health,4378.49,2984.45,Pending,2023-03-26,IN005
+P0018,Craig Baker,56,Male,Los Angeles,Auto,3860.05,5393.79,Pending,2021-09-16,IN001
+P0019,Samantha Griffin,56,Female,Houston,Health,736.97,3629.81,Rejected,2021-10-03,IN002
+P0020,Elizabeth Fuentes,21,Male,Phoenix,Health,611.14,4859.9,Approved,2023-07-31,IN005
+P0021,Alex Barton,67,Male,Los Angeles,Home,4744.87,1651.27,Pending,2021-05-24,IN005
+P0022,Abigail Padilla,45,Male,Phoenix,Life,3622.16,3989.92,Pending,2020-10-01,IN003
+P0023,Clinton Brown,46,Female,New York,Life,1278.55,3380.86,Pending,2022-05-15,IN005
+P0024,John Ryan,32,Male,New York,Health,3597.64,588.74,Approved,2020-11-22,IN001
+P0025,Charles Castaneda,39,Male,Phoenix,Life,1536.69,4854.14,Pending,2023-07-28,IN002
+P0026,Angela Coleman,64,Female,Los Angeles,Home,4075.99,1904.1,Approved,2023-11-25,IN004
+P0027,Adam Henson DDS,40,Female,Houston,Home,4346.42,541.71,Pending,2020-12-24,IN001
+P0028,Lawrence Bowers,21,Female,Chicago,Health,1393.55,1902.09,Rejected,2024-01-21,IN002
+P0029,Ruben Sutton DVM,45,Male,Chicago,Home,1399.07,9232.66,Rejected,2022-05-23,IN005
+P0030,Elizabeth Duke,24,Male,Phoenix,Health,4851.18,9263.67,Approved,2023-12-09,IN002
+P0031,Jennifer Adams,44,Female,Houston,Life,4350.32,9024.43,Approved,2020-07-03,IN004
+P0032,Tina Wall,18,Female,Chicago,Home,1569.2,6965.92,Pending,2021-11-18,IN005
+P0033,Ricky Castillo,60,Female,Los Angeles,Life,1624.2,9687.09,Pending,2021-11-27,IN005
+P0034,Morgan Smith,21,Female,New York,Health,3004.05,5028.5,Pending,2021-07-25,IN002
+P0035,Donald Martinez,21,Male,Los Angeles,Health,3056.17,6752.13,Approved,2023-10-28,IN004
+P0036,Jessica Jones,25,Male,Phoenix,Health,3173.03,4192.25,Pending,2021-02-15,IN005
+P0037,Logan Baker,51,Female,Chicago,Life,3414.68,3141.84,Rejected,2020-08-19,IN004
+P0038,Tiffany Walls,26,Female,Houston,Auto,4659.29,9357.34,Approved,2022-05-14,IN004
+P0039,Yesenia Davis,57,Male,New York,Life,2628.25,1324.57,Rejected,2020-07-19,IN001
+P0040,Margaret Buck,33,Female,Chicago,Life,2303.29,5432.18,Rejected,2020-07-11,IN005
+P0041,Amy Landry,69,Male,Phoenix,Auto,4672.43,1035.87,Approved,2022-07-30,IN003
+P0042,Jason Clark,25,Male,Phoenix,Life,1507.27,6048.3,Pending,2022-11-19,IN003
+P0043,Brooke Vega,31,Female,Phoenix,Home,1405.38,9081.59,Approved,2023-10-11,IN001
+P0044,Lindsey Allen,58,Female,Chicago,Health,217.02,7711.19,Pending,2023-05-31,IN003
+P0045,Angela Skinner,28,Female,Phoenix,Home,2892.35,1118.74,Pending,2020-06-06,IN002
+P0046,Laurie Shaw,52,Male,Chicago,Life,2262.98,418.29,Rejected,2023-05-10,IN001
+P0047,Francisco Benjamin,40,Male,Los Angeles,Health,1897.66,5598.84,Rejected,2020-11-07,IN005
+P0048,Kenneth Jackson,65,Male,Los Angeles,Life,4885.79,8107.72,Rejected,2023-04-18,IN001
+P0049,Teresa Snow,29,Female,Houston,Life,1480.67,7873.75,Approved,2023-09-15,IN004
+P0050,Colleen Palmer,20,Female,Los Angeles,Life,4119.62,4603.03,Rejected,2021-12-26,IN002
+P0051,James Crawford,32,Male,Los Angeles,Home,1775.66,8643.53,Rejected,2023-05-06,IN003
+P0052,Rachel Garcia,59,Female,Phoenix,Auto,4708.34,1153.42,Rejected,2023-11-15,IN002
+P0053,Ryan Parker,55,Female,New York,Health,3063.54,3456.87,Rejected,2022-08-29,IN004
+P0054,Charles Sullivan,56,Male,Houston,Life,1422.67,7087.85,Approved,2022-06-30,IN005
+P0055,William Gomez,69,Male,Chicago,Home,535.87,6642.38,Rejected,2021-04-28,IN005
+P0056,Theodore Wang,38,Male,Chicago,Auto,3401.09,3261.83,Pending,2023-01-01,IN003
+P0057,Timothy Stevens,53,Male,Los Angeles,Home,3391.66,3791.45,Pending,2021-09-04,IN002
+P0058,John Brown,57,Female,Houston,Health,1658.6,2101.83,Pending,2021-10-22,IN005
+P0059,Jessica Martinez,59,Female,Houston,Home,2322.37,2137.01,Rejected,2021-12-18,IN002
+P0060,Heather Trevino,60,Male,Chicago,Auto,648.26,9520.0,Approved,2023-06-04,IN003
+P0061,Steve Stuart,32,Male,Los Angeles,Health,421.83,9839.36,Pending,2024-05-18,IN001
+P0062,Nicole Bailey,47,Female,Phoenix,Life,3648.06,3839.78,Rejected,2022-08-15,IN002
+P0063,Lisa Buckley,27,Male,New York,Home,1250.44,8041.1,Pending,2022-04-19,IN005
+P0064,Elizabeth Thompson,47,Male,Phoenix,Life,4603.86,1213.59,Approved,2020-07-16,IN004
+P0065,Courtney Harrison,60,Female,Houston,Home,4186.73,5478.72,Approved,2020-06-09,IN004
+P0066,Nathaniel Warren,46,Female,Los Angeles,Auto,3875.91,5213.0,Pending,2022-08-19,IN002
+P0067,Kelly Thompson,35,Female,New York,Auto,1325.57,3358.48,Pending,2023-06-02,IN001
+P0068,Chad Flynn,26,Male,Los Angeles,Home,3530.96,7064.19,Approved,2022-08-08,IN004
+P0069,Lee Guerrero,44,Female,Phoenix,Home,2195.72,2068.34,Rejected,2023-07-05,IN004
+P0070,Samantha Mercer,67,Male,Phoenix,Home,2489.5,9427.42,Rejected,2021-01-29,IN004
+P0071,Allen Dillon,44,Male,Houston,Life,1510.09,4856.42,Rejected,2024-01-16,IN003
+P0072,Elizabeth Williams,60,Female,Los Angeles,Home,4613.8,9807.22,Pending,2024-02-17,IN001
+P0073,Julia Jones,43,Male,New York,Home,851.36,4616.98,Approved,2024-02-15,IN003
+P0074,Casey Miller,42,Female,Los Angeles,Home,1768.86,7612.3,Rejected,2021-02-09,IN003
+P0075,Dana Gutierrez,66,Female,Chicago,Health,2457.47,7490.24,Approved,2020-08-14,IN003
+P0076,Lawrence Mason,32,Male,New York,Health,4758.14,1993.61,Approved,2021-10-04,IN005
+P0077,Ashley Mosley,27,Male,Los Angeles,Home,3413.4,5639.7,Approved,2020-07-28,IN004
+P0078,Ricardo Miller,62,Female,Chicago,Life,3108.28,9637.35,Pending,2021-08-05,IN001
+P0079,Troy Johnson,67,Male,Chicago,Health,2977.69,9288.87,Pending,2022-07-05,IN004
+P0080,Nicholas Jones,43,Male,New York,Life,689.13,7724.81,Pending,2020-05-27,IN005
+P0081,Michael Cline,69,Male,Phoenix,Health,1866.58,4283.78,Rejected,2021-01-24,IN001
+P0082,Christopher Rodriguez DVM,50,Female,New York,Home,4147.19,1055.39,Rejected,2022-07-20,IN004
+P0083,Tracy Cooper,63,Male,Houston,Life,3722.22,9654.74,Rejected,2022-04-11,IN005
+P0084,Timothy Reynolds,69,Female,Houston,Home,4163.53,5924.75,Rejected,2020-08-04,IN002
+P0085,Jared Rogers,23,Female,Houston,Life,3802.29,5698.5,Pending,2022-12-31,IN004
+P0086,Holly Lee,39,Male,Houston,Auto,1072.83,2121.2,Rejected,2023-10-22,IN003
+P0087,Christopher Jones,35,Female,Phoenix,Health,2679.81,1910.56,Approved,2021-03-09,IN004
+P0088,Marc Hendrix,49,Male,Houston,Home,2351.24,172.43,Rejected,2023-08-24,IN002
+P0089,Jeffery Gentry,43,Male,Chicago,Auto,2471.65,5309.22,Rejected,2024-03-05,IN005
+P0090,Nicholas Stokes,39,Female,Houston,Auto,1671.79,2305.38,Pending,2021-11-03,IN002
+P0091,Samantha Brown,38,Male,Phoenix,Life,1119.4,7386.05,Rejected,2023-04-20,IN005
+P0092,Kelly Anderson,66,Female,New York,Life,1621.98,3608.81,Rejected,2020-09-08,IN001
+P0093,Peter Morales,63,Male,Chicago,Health,4876.62,5533.59,Pending,2022-01-22,IN002
+P0094,Christopher Smith,58,Female,New York,Health,2955.51,4693.97,Rejected,2022-10-06,IN003
+P0095,Adam Chavez,29,Male,Chicago,Home,747.62,653.43,Rejected,2023-11-01,IN001
+P0096,Kevin Wilson,54,Male,Los Angeles,Life,4093.48,9491.26,Approved,2024-02-15,IN002
+P0097,Sean Ochoa,25,Female,Phoenix,Life,3923.33,3803.78,Rejected,2022-07-20,IN003
+P0098,Kathleen Williams,55,Female,Chicago,Health,3126.23,7400.89,Approved,2021-12-23,IN002
+P0099,Joshua Singh,34,Male,Los Angeles,Life,1034.31,750.65,Approved,2024-01-07,IN004
+P0100,Eric Nunez,46,Female,Chicago,Health,1311.09,7069.56,Pending,2021-08-17,IN004
+P0101,Gavin Watts,22,Male,Chicago,Life,2240.67,5445.62,Pending,2020-12-22,IN002
+P0102,Jamie Johnson,35,Male,New York,Health,996.43,3076.12,Pending,2021-12-14,IN005
+P0103,Shawn Perkins,36,Female,New York,Home,3505.65,6997.34,Rejected,2023-04-18,IN005
+P0104,Amy Watson,52,Female,Houston,Health,3070.58,8894.23,Pending,2020-12-27,IN003
+P0105,John Stephenson,56,Female,New York,Health,1298.84,6742.98,Pending,2022-11-16,IN005
+P0106,Keith Wong,19,Female,Phoenix,Health,3862.92,1751.91,Pending,2022-07-25,IN004
+P0107,Dr. Adam Frank,35,Male,Phoenix,Home,3246.97,4917.26,Approved,2024-02-14,IN004
+P0108,Catherine Adams,40,Female,Chicago,Auto,3416.64,8577.33,Rejected,2023-07-23,IN004
+P0109,Charlotte Sanchez MD,62,Female,Chicago,Home,4105.12,5500.97,Rejected,2023-03-22,IN001
+P0110,Keith Stephens,38,Female,Chicago,Health,4856.89,4041.75,Pending,2022-06-04,IN001
+P0111,Alexander Espinoza,60,Female,Houston,Health,1100.4,3617.79,Rejected,2024-03-28,IN004
+P0112,John Franklin,66,Male,Los Angeles,Auto,2836.25,9276.73,Rejected,2023-02-08,IN004
+P0113,Kathryn Christensen,25,Male,Phoenix,Life,3606.96,3107.5,Approved,2023-12-12,IN005
+P0114,Joseph Fernandez,44,Male,Los Angeles,Health,2414.95,1174.66,Approved,2022-11-23,IN004
+P0115,Donna Montgomery,63,Female,Phoenix,Auto,2194.35,4825.0,Rejected,2024-01-25,IN002
+P0116,Sue Cole,47,Male,Houston,Life,4624.97,5082.41,Approved,2022-06-19,IN001
+P0117,Chelsea Allison,35,Female,Chicago,Auto,4138.64,2828.39,Rejected,2023-10-07,IN005
+P0118,Rachel Roy,55,Female,Los Angeles,Home,2785.19,3451.24,Pending,2021-07-20,IN005
+P0119,David Gray,42,Female,Chicago,Life,4907.72,2388.06,Rejected,2021-04-12,IN002
+P0120,Jennifer Bailey,67,Female,New York,Auto,3774.58,7052.28,Rejected,2021-03-22,IN004
